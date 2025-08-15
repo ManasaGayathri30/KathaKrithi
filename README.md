@@ -1,5 +1,5 @@
 # KathaKrithi
-Swetcha Hackathon 
+Swecha Hackathon 
 # Kathakriti: AI-Powered Folk Tale Animator
 
 Kathakriti is a hackathon-ready web platform that transforms traditional oral or written folk tales into beautiful, interactive shadow puppet animations. It leverages modern frontend technologies and AI-powered services to create a seamless and magical storytelling experience, preserving cultural heritage in a new and engaging format.
